@@ -1,0 +1,6 @@
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\bin\WebServiceSQL2_Server.dll.config
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\bin\WebServiceSQL2_Server.dll
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\bin\WebServiceSQL2_Server.pdb
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\obj\Debug\WebServiceSQL2_Server.csprojResolveAssemblyReference.cache
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\obj\Debug\WebServiceSQL2_Server.dll
+G:\Po\WebService\WebServiceSQL2_Server\WebServiceSQL2_Server\obj\Debug\WebServiceSQL2_Server.pdb
